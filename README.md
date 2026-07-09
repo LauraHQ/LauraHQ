@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Laura Hernández
 
-### **Python Developer • Data Analyst • Business Intelligence**
+### **Python full-stack Developer • Data Analyst **
 
 *"toda transformacion comienza con un conjunto de datos."*
 
@@ -18,7 +18,7 @@ Soy una **Ingeniera en Administración de Empresas** con un gran interes en el d
 
 Mi experiencia combina el conocimiento del negocio con el desarrollo de aplicaciones utilizando **Python**, **Django**, **SQL** y **Power BI**, buscando siempre optimizar procesos y mejorar la toma de decisiones mediante tecnología.
 
-Actualmente continúo ampliando mis conocimientos en desarrollo backend y arquitectura de aplicaciones empresariales.
+Actualmente continúo ampliando mis conocimientos en desarrollo de software y arquitectura de aplicaciones empresariales.
 
 ---
 
@@ -62,7 +62,7 @@ Actualmente continúo ampliando mis conocimientos en desarrollo backend y arquit
 
 # 📂 Proyectos Destacados
 
-## 🛒 Don Álvaro Multitiendas
+## 🛒 m8_ecommerce_Homie
 
 Plataforma profesional de comercio electrónico desarrollada con **Django** y **PostgreSQL**.
 
@@ -74,7 +74,6 @@ Plataforma profesional de comercio electrónico desarrollada con **Django** y **
 - 📦 Control de inventario
 - 💳 Flujo de compra
 - 📈 Panel administrativo
-- 📜 Historial de compras
 
 **Tecnologías**
 
